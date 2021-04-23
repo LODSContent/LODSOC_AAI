@@ -8,8 +8,8 @@ namespace AAI
 {
     public class KeySentiments
     {
-        private const string Key = "<your service keys>";
-        private const string Endpoint = "https://<your service>.cognitiveservices.azure.com/";
+        private const string Key = "695ab76cad3243038e1dce82e9c2521f";
+        private const string Endpoint = "https://textanalyticslab002.cognitiveservices.azure.com/";
 
         public TextAnalyticsClient AzureTextAnalyticsService { get; }
 
